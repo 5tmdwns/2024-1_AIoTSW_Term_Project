@@ -1,2 +1,5 @@
-# 2024-1_AIoTSW_Term_Project
-경희대학교 2024-1학기 AIoT소프트웨어 텀 프로젝트
+<p align="center">
+  <h1 align="center">웹 서버 연동 1/100초 Stop Watch✨</h1>
+</p>
+
+(코드 수정중)
