@@ -47,3 +47,27 @@
 ### 2.2 `stop.c`, `clear.c`
 &nbsp;RaspberryPi아이피/stopWatch.html에서 버튼이 눌러졌을 때 실행되고, 각 버튼에 맞는 Message를 FIFO파일에 출력합니다. <br/>
 FFO파일 출력에 문제가 있을 시, 확인할 수 있도록 구현하였습니다. <br/>
+
+## 3. 결과
+<table align="center">
+  <tr>
+    <td align="center"><img width="90%" alt="홈페이지" src="https://github.com/user-attachments/assets/39fb15d6-78c3-4e09-a967-dff3e4c6fbc8" /></td>
+  </tr>
+  <tr>
+    <td align="center">홈페이지</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><img width="90%" alt="Start" src="https://github.com/user-attachments/assets/ccb7cc95-e363-4e9e-b397-298ca238352e" /></td>
+    <td align="center"><img width="90%" alt="Stop" src="https://github.com/user-attachments/assets/b830cbd3-fb0a-4198-a084-8f1cc7602029" /></td>
+    <td align="center"><img width="90%" alt="Clear" src="https://github.com/user-attachments/assets/3ab6d4bc-7417-4933-970f-bcf23166f6d0" /></td>
+  </tr>
+  <tr>
+    <td align="center">Start 버튼을 눌렀을 때 동작</td>
+    <td align="center">Stop 버튼을 눌렀을 때 동작</td>
+    <td align="center">Clear 버튼을 눌렀을 때 동작</td>
+  </tr>
+</table>
+
